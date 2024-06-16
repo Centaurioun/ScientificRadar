@@ -1,0 +1,274 @@
+VERSION 1: Cloude 3 Opus
+
+Here is my attempt at repurposing the Nature news article for a ScientificRadar blog post:
+
+Title: Orangutan Pioneers Use of Medicinal Plant to Treat Wound
+
+TL;DR:
+
+A wild Sumatran orangutan was observed using a plant with medicinal properties to treat an open wound
+This is the first scientific record of a wild animal self-medicating with a plant known to have healing qualities
+The orangutan, named Rakus, ate the leaves of the plant and applied a poultice of chewed leaves to the wound
+Within 8 days of treatment, Rakus' wound had fully healed
+The findings suggest orangutans and humans share medicinal plant knowledge from inhabiting the same environments
+In a stunning display of self-care, a wild Sumatran orangutan named Rakus was observed treating an open wound on his face using the leaves of a medicinal plant known as akar kuning (Fibraurea tinctoria) . This marks the first scientific documentation of a wild animal using a plant with known healing properties to self-medicate .
+
+The remarkable event, published in Scientific Reports, was witnessed by a team of primatologists led by Caroline Schuppli from the Max Planck Institute of Animal Behavior . In June 2022, Rakus was seen with an open gash on his cheek, likely sustained during a fight with another male .
+
+Days later, Rakus began consuming the leaves and stems of akar kuning, a plant rarely eaten by orangutans but used by local people to treat various ailments . In a seven-minute medicating session, Rakus chewed the leaves into a poultice and applied it to his wound, even spreading additional leaf mash on the injury when flies landed on it .
+
+Remarkably, just eight days after beginning treatment, Rakus' wound had completely closed . Schuppli's team, despite 21 years observing orangutans in the area, had never seen another individual use akar kuning for self-medication .
+
+According to animal self-medication expert Michael Huffman, this study provides the first scientific evidence of an animal using a medicinal plant to consistently treat a wound over time . He notes that many species, from geese to chimpanzees, exhibit self-medicating behaviors and that early humans likely discovered some remedies by observing animals .
+
+The findings suggest that orangutans and humans, inhabiting the same environments, share knowledge about the healing properties of plants. "It shows that orangutans and humans share knowledge," Schuppli remarks. "Since they live in the same habitat, I would say that's quite obvious, but still intriguing to realize" .
+
+Rakus' inspiring act of self-care opens a captivating window into the world of animal cognition and the potential for knowledge sharing across species boundaries. As we continue to explore the depths of the natural world, stories like this remind us of the awe-inspiring intelligence and resilience of our fellow creatures.
+
+Source: Laumer, I. B. et al. (2024). Sci. Rep. .
+
+Meta Keywords: Sumatran orangutan, self-medication, medicinal plants, animal behavior, wound treatment, primate intelligence, interspecies knowledge sharing, animal cognition, Fibraurea tinctoria, akar kuning
+
+---
+
+VERSION 2: Cloud 3 Opus
+
+Here is a draft blog post based on the paper:
+
+Title: Wild Orangutan Applies Medicinal Plant to Treat Facial Wound in Groundbreaking Discovery
+
+Meta Description: Scientists observed a wild Sumatran orangutan actively treating his own facial wound by applying leaves from a medicinal plant known for its healing properties.
+
+TL;DR:
+
+A male Sumatran orangutan sustained a facial wound
+Three days later, he selectively picked leaves from the liana plant Fibraurea tinctoria (Akar Kuning)
+He chewed the leaves into a juice and repeatedly applied it to his facial wound
+He then fully covered the wound with the chewed leaves
+F. tinctoria contains compounds with anti-inflammatory, antibacterial properties useful for wound healing
+In a groundbreaking discovery, researchers have documented the first known case of a wild animal actively treating its own wound with a plant species known to contain biologically active medicinal compounds. The study, published in Scientific Reports , observed a male Sumatran orangutan who sustained a facial injury engaging in what appears to be a form of self-medication.
+
+Three days after incurring the wound, the orangutan named Rakus was spotted selectively ripping off leaves from a liana vine called Akar Kuning (Fibraurea tinctoria). He proceeded to chew the leaves, creating a plant juice that he repeatedly applied directly onto his facial wound. As a final step, Rakus fully covered the treated area with the chewed leaves.
+
+The remarkable behavior caught scientists' attention because F. tinctoria, found in Southeast Asian tropical forests, has long been used in traditional medicine to treat various diseases like dysentery, diabetes and malaria . Previous chemical analyses revealed the presence of compounds like furanoditerpenoids and protoberberine alkaloids, which exhibit antibacterial, anti-inflammatory, antioxidant and other properties highly relevant for wound healing .
+
+"This possibly innovative behavior presents the first systematically documented case of active wound treatment with a plant species known to contain biologically active substances by a wild animal," the researchers stated . "It provides new insights into the origins of human wound care practices."
+
+While self-medication through ingesting plants has been widely observed across animal species , examples of topical application to treat injuries or illness are exceedingly rare. The most well-documented cases involve chimpanzees catching insects and applying them to their own wounds or those of other chimps, potentially to serve an antiseptic function .
+
+Among orangutans, there have been multiple reports of the apes consuming plants used in traditional medicine, like ginger for inflammation . A separate study found orangutans topically applying a lather from the medicinal Dracaena cantleyi plant, which has anti-inflammatory effects .
+
+However, Rakus's deliberate use of F. tinctoria represents the first clear example of an animal exploiting a plant's pharmacological properties to actively treat a wound on its own body. The scientists posit that further research is needed to understand if the orangutan treatment was purely by chance or exhibited an intentional understanding of the plant's medicinal value .
+
+Regardless, the finding offers a fascinating glimpse into the potential origins of human medicinal practices and intelligence exhibited by our evolutionary cousins. As lead author Isabelle Laumer noted, "This observation really highlights the level of complexity in orangutan's plant knowledge and provides a new perspective on ethnomedicine and therapeutic behavior in wildlife."
+
+Source: Laumer, I.B., Rahman, A., Rahmaeti, T. et al. Active self‑treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Sci Rep 14, 8932 (2024).
+
+Meta Keywords: orangutan self-medication, animal wound treatment, medicinal plants, ethnomedicine, primate behavior, animal intelligence
+
+---
+
+VERSION 3: GPT 4
+
+Innovative Self-Medication in Sumatran Orangutans: A Case Study of Wound Care in the Wild
+TL;DR:
+A male Sumatran orangutan was observed applying a chewed plant with medicinal properties to a facial wound .
+This behavior suggests knowledge of plant-based medicine and self-treatment among non-human primates .
+The plant used, Akar Kuning, is known in traditional medicine for analgesic, antipyretic, and diuretic effects .
+Chemical analysis of the plant confirms the presence of compounds beneficial for wound healing .
+This case is the first documented instance of a wild orangutan using active wound treatment with a known medicinal plant .
+Engaging with the concept of animal intelligence often leads us to underestimate the complexities of their behaviors and their intrinsic knowledge of the natural world around them. Today, we share a captivating account of a male Sumatran orangutan, who has mesmerizingly demonstrated the capability for intricate healthcare management in the wild.
+
+In a striking display of cognitive aptitude and self-awareness, a male orangutan, after sustaining a facial injury, engaged in a remarkable act of self-medication. Three days post-injury, the great ape selectively chose leaves from a liana known as Akar Kuning (Fibraurea tinctoria) and purposefully chewed them. He then proceeded to apply the extracted juice onto his wound . To culminate the treatment, the orangutan covered the wound entirely with the masticated leaves, a method akin to the application of a naturally derived poultice.
+
+It is worth noting that Akar Kuning is no ordinary foliage but one that is steeped in the traditional medicine of Southeast Asia. Its various healing properties, such as pain relief and fever reduction, have been harnessed by humans for treating an array of ailments, including dysentery, diabetes, and malaria . The constituents of this remarkable plant, including furanoditerpenoids and protoberberine alkaloids, are potent antibacterial, anti-inflammatory, and antioxidant agents, marking the substance as undeniably beneficial in wound care .
+
+The behavior this orangutan exhibited is not just a random act but fits into a broader category of animal self-medication practices. Whole leaf swallowing, bitter pith chewing, and fur rubbing are behaviors previously noted among great apes and other primates for their therapeutic properties in treating internal parasites and illnesses [, ].
+
+Interestingly, evidence suggests that these self-medicating behaviors are not just immediate reactions to discomfort but can also be part of larger, preventive health strategies. Such actions indicate a nuanced understanding by non-human animals of the resources available in their natural environments and their potential healing powers .
+
+The significance of this event cannot be overstated. Until this observation, reports of active wound treatment in non-human animals were exceedingly rare and never before systematically documented in wild apes . This outstanding instance broadens our comprehension of non-human primate intelligence and could provide fresh insights into the origins of human wound care and medicine.
+
+The orangutan's judicious selection and topical application of Akar Kuning reveal a deep-rooted behavior that translates into a sophisticated understanding of natural remedies. These actions might represent a learned behavior or inventiveness, raising questions about knowledge transmission among orangutans and possibly offering a glimpse into the antecedents of human ancestral knowledge of medicinal plants .
+
+Behavior such as this, observed by Laumer and colleagues, doesn't just ornament the annals of primatology with another intriguing footnote but rather it pushes the boundaries of how we perceive and understand animal intelligence and their interactions with their ecosystem . It urges us to consider the conservational implications of our shared knowledge and opens new avenues for research into phytotherapy and ethnomedicine.
+
+As we delve into the broader implications of such findings, one cannot help but ponder on the intricate tapestry of life on Earth, where even non-human animals can engage in self-care that mirrors human practices. Such discoveries indeed make us appreciate the subtle complexities and shared abilities across species, revealing a world more interconnected than we might ever have imagined.
+
+Source: Laumer, I. B., Rahman, A., Rahmaeti, T., Azhari, U., Hermansyah, Schuppli, C., Atmoko, S. S. U. (2024). Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Scientific Reports, 14, 8932.
+
+Meta Keywords: animal intelligence, orangutan self-medication, traditional medicine, Akar Kuning, Fibraurea tinctoria, animal behavior, ethnomedicine, cognitive ethology, great apes, wound healing
+
+---
+
+VERSION 4: Mixtral
+
+Title: Orangutan Self-Medication: A Fascinating Case of Active Wound Treatment with a Biologically Active Plant
+
+TL;DR:
+
+A male Sumatran orangutan was observed treating a facial wound with a biologically active plant, Fibraurea tinctoria, known for its analgesic, antipyretic, and diuretic effects.
+This is the first systematically documented case of active wound treatment with a plant species containing biologically active substances by a wild animal.
+The behavior presents new insights into the origins of human wound care and the potential for self-medication in non-human animals.
+In the vast and complex world of animal behavior, instances of self-medication are often difficult to document systematically. However, a recent observation of a male Sumatran orangutan (Pongo abelii) has shed new light on this intriguing phenomenon .
+
+The orangutan, named Rakus, was observed treating a facial wound with a plant known as Akar Kuning (Fibraurea tinctoria). This plant, found in tropical forests of Southeast Asia, is known for its analgesic, antipyretic, and diuretic effects and is used in traditional medicine to treat various diseases .
+
+The process of self-treatment was meticulous and deliberate. Rakus selectively ripped off leaves of the plant, chewed on them, and then repeatedly applied the resulting juice onto the facial wound. As a final step, he fully covered the wound with the chewed leaves .
+
+This behavior is significant for several reasons. Firstly, it presents the first systematically documented case of active wound treatment with a plant species known to contain biologically active substances by a wild animal . Secondly, it provides new insights into the origins of human wound care and the potential for self-medication in non-human animals.
+
+The plant used by Rakus, Fibraurea tinctoria, contains furanoditerpenoids and protoberberine alkaloids, which are known to have antibacterial, anti-inflammatory, anti-fungal, antioxidant, and other biological activities of relevance to wound healing . This suggests that Rakus may have been aware of the plant's medicinal properties and used it intentionally to treat his wound.
+
+While self-medication in non-human animals is not a new concept, it is often difficult to document due to the unpredictability of its occurrence. However, there is widespread evidence of such behaviors in various species, including African great apes, orangutans, white-handed gibbons, and several other species of monkeys in Africa, Central and South America, and Madagascar .
+
+The observation of Rakus' self-treatment behavior adds to this body of evidence and highlights the potential for non-human animals to exhibit complex and sophisticated behaviors. It also underscores the importance of continued research into animal behavior and cognition.
+
+In conclusion, the case of Rakus, the self-medicating orangutan, is a fascinating example of the complex behaviors exhibited by non-human animals. It provides new insights into the potential for self-medication in the animal kingdom and underscores the importance of continued research in this area.
+
+Source:
+
+Laumer, I.B., Rahman, A., Rahmaeti, T. et al. Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Sci Rep 14, 8932 (2024).
+Meta Keywords:
+
+Animal self-medication, Therapeutic topical application, Phytotherapy, Great apes, Ethnomedicine, Orangutan behavior, Wound treatment, Biologically active plants.
+
+---
+
+VERSION 5: Llama-3
+
+Title: Groundbreaking Discovery: Orangutan Uses Biologically Active Plant to Treat Facial Wound
+
+TL;DR:
+
+A male Sumatran orangutan was observed treating a facial wound with a biologically active plant, Fibraurea tinctoria, in the wild.
+The orangutan selectively ripped off leaves, chewed on them, and applied the resulting juice to the wound, covering it with the chewed leaves.
+This behavior presents the first systematically documented case of active wound treatment with a plant species known to contain biologically active substances by a wild animal.
+The study provides new insights into the origins of human wound care and highlights the importance of observing animal behavior in their natural habitats.
+In a remarkable discovery, a team of researchers has observed a male Sumatran orangutan treating a facial wound with a biologically active plant in the wild. The study, published in Scientific Reports, sheds light on the fascinating behavior of self-medication in non-human animals and provides new insights into the origins of human wound care.
+
+The observation took place in the Suaq Balimbing research area in Indonesia, where a male orangutan named Rakus was found with a fresh facial wound. Three days after the injury, Rakus was seen selectively ripping off leaves of the Fibraurea tinctoria plant, chewing on them, and applying the resulting juice to the wound. He then covered the wound with the chewed leaves, a behavior that was repeated several times.
+
+Fibraurea tinctoria, also known as Akar Kuning, is a liana species found in tropical forests of Southeast Asia. It is known for its analgesic, antipyretic, and diuretic effects and is used in traditional medicine to treat various diseases, including dysentery, diabetes, and malaria. Previous analyses of plant chemical compounds have shown the presence of furanoditerpenoids and protoberberine alkaloids, which are known to have antibacterial, anti-inflammatory, anti-fungal, antioxidant, and other biological activities relevant to wound healing.
+
+This behavior presents the first systematically documented case of active wound treatment with a plant species known to contain biologically active substances by a wild animal. While there have been reports of self-medication in non-human animals, including chimpanzees and orangutans, this study provides conclusive evidence of the intentional use of a biologically active plant to treat a wound.
+
+The researchers suggest that this behavior may be a form of self-medication to treat the wound and prevent infection, highlighting the importance of observing animal behavior in their natural habitats. The study also provides new insights into the origins of human wound care, suggesting that humans may have learned from observing animal behavior in the past.
+
+In conclusion, this groundbreaking discovery highlights the fascinating complexity of animal behavior and the importance of continued research into the natural world. As we continue to learn from our animal counterparts, we may uncover new and innovative ways to treat wounds and improve human health.
+
+---
+
+VERSION 6: Cloude 3 Sonnet
+
+Title: Remarkable Self-Medication Behavior in Wild Sumatran Orangutan
+
+Meta Description: A wild male Sumatran orangutan actively treated his facial wound using leaves from a medicinal plant known for its therapeutic properties, marking an exceptional case of self-medication in non-human animals.
+
+TL;DR:
+
+A male Sumatran orangutan sustained a facial wound and was observed actively treating it with leaves from a liana plant called Akar Kuning (Fibraurea tinctoria).
+He chewed the leaves, applied the resulting juice onto the wound, and covered it with the chewed leaves.
+Akar Kuning is known for its analgesic, antipyretic, and diuretic effects in traditional medicine and contains compounds with antibacterial, anti-inflammatory, and antioxidant properties beneficial for wound healing.
+This behavior presents the first systematically documented case of active wound treatment with a medicinal plant by a wild animal.
+The observation provides new insights into the origins of human wound care practices.
+
+In the lush tropical forests of Sumatra, researchers witnessed a remarkable display of self-medication in a male Sumatran orangutan. Three days after sustaining a facial wound, the orangutan, known as Rakus, exhibited an intriguing behavior that caught the attention of the observing scientists.
+
+Rakus selectively ripped off leaves from a liana vine called Akar Kuning (Fibraurea tinctoria), a plant renowned in traditional Southeast Asian medicine for its therapeutic properties. He meticulously chewed the leaves, extracting their juices, and then repeatedly applied the resulting liquid onto his facial wound. As a final step, Rakus carefully covered the wound with the chewed leaves, forming a protective layer.
+
+The researchers were astonished by this seemingly intentional act, as Akar Kuning and related liana species are known for their analgesic, antipyretic, and diuretic effects. Previous analyses have revealed the presence of furanoditerpenoids and protoberberine alkaloids in these plants, compounds with antibacterial, anti-inflammatory, antifungal, antioxidant, and other biological activities that promote wound healing.
+
+While self-medication behaviors, such as whole leaf swallowing and bitter pith chewing, have been documented in African great apes , , this is the first systematically observed case of active wound treatment with a medicinal plant by a wild animal. The observation not only sheds light on the potential medicinal abilities of orangutans but also provides valuable insights into the origins of human wound care practices.
+
+"This possibly innovative behavior presents the first systematically documented case of active wound treatment with a plant species known to contain biologically active substances by a wild animal," the researchers explained. They noted that the observation raises intriguing questions about the extent of orangutans' knowledge regarding medicinal plants and their ability to apply that knowledge in self-care.
+
+Source: Laumer, I. B., Rahman, A., Rahmaeti, T., Azhari, U., Hermansyah, Atmoko, S. S. U., & Schuppli, C. (2024). Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Scientific Reports, 14(1), 8932.
+
+Meta Keywords: animal self-medication, therapeutic topical application, phytotherapy, great apes, ethnomedicine, Sumatran orangutan, wound treatment, medicinal plants
+
+---
+
+VERSION 7: ChatGPT 4
+
+# Self-Medication in the Wild: Sumatran Orangutan Uses Plant Extract to Treat Facial Wound
+
+**TL;DR:**
+- A male Sumatran orangutan treated his facial wound with the leaves of a plant known for its medicinal properties.
+- This behavior represents the first documented instance of a non-human using a biologically active plant for active wound care.
+- The plant used, Fibraurea tinctoria, is recognized in traditional medicine for its analgesic and anti-inflammatory properties.
+- The orangutan’s actions suggest a potential understanding of natural remedies, hinting at cognitive abilities shared with humans.
+- This discovery provides insights into the origins of medicinal practices and the potential of self-medication in animals.
+
+In a groundbreaking observation, researchers have documented a male Sumatran orangutan actively using a biologically active plant to treat a facial wound. This rare insight not only provides a glimpse into the self-medication behaviors of non-human primates but also adds to our understanding of how such practices might have evolved.
+
+### Innovative Healing: A Case of Orangutan Ingenuity
+
+In the dense forests of Gunung Leuser National Park, Indonesia, a male orangutan known as Rakus turned to the natural pharmacy of the jungle to treat his wound. Three days post-injury, Rakus was observed selecting and processing leaves from the Fibraurea tinctoria vine, a plant known locally as Akar Kuning. Researchers watched as he chewed the leaves to form a pulp, which he then applied onto his wound, effectively using the plant's juice as a topical treatment.
+
+### The Plant of Choice: Fibraurea Tinctoria
+
+Fibraurea tinctoria, used in traditional medicine across Southeast Asia, contains several compounds with medicinal properties, including anti-inflammatory and antimicrobial effects. This makes it an ideal choice for treating open wounds. The use of such plants suggests that the orangutan may understand the therapeutic properties of the liana, pointing to a complex level of cognitive function regarding health and self-care.
+
+### Implications for Human Medicine
+
+The actions of this orangutan could have profound implications for our understanding of medicine's origins. This behavior mirrors the basis of human medicinal practices, where natural resources are harnessed for their healing properties. By studying such instances of animal self-medication, scientists can gain insights into the evolutionary aspects of health behaviors that might extend back to common ancestors of humans and orangutans.
+
+### Looking Ahead: Conservation and Continued Research
+
+This incident highlights the importance of conservation efforts and the continuous study of orangutans in their natural habitats. Protecting these areas ensures not only the survival of these intelligent beings but also the preservation of their unique behaviors, which have the potential to provide further insights into the natural world's complexities.
+
+*Source: Laumer, I. B., Rahman, A., Rahmaeti, T., Azhari, U., Hermansyah, Schuppli, C., & Atmoko, S. S. U. (2024). Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Scientific Reports, 14, 8932. https://doi.org/10.1038/s41598-024-58988-7*
+
+**Meta Keywords:** Sumatran orangutan, self-medication, wound care, Fibraurea tinctoria, traditional medicine, animal behavior, cognitive abilities, conservation.
+
+**Article Category:**
+- Main category: Life
+  + Sub-category: Animals
+  + Sub-category: Neuroscience
+
+VERSION 8: ChatGPT 4
+
+# Orangutan's Use of Medicinal Plant for Wound Care Offers Insights into Animal Intelligence and Medicinal Practices
+
+**TL;DR:**
+- A wild Sumatran orangutan used the plant *Fibraurea tinctoria* to treat a facial wound.
+- This behavior is the first documented instance of a non-human using a plant known for its medicinal properties for active wound treatment.
+- The plant's known effects include anti-inflammatory and antibacterial properties, which are beneficial for wound healing.
+- The orangutan's actions suggest a possible understanding of natural remedies, highlighting complex cognitive abilities.
+- This discovery provides valuable insights into the evolutionary origins of medicinal practices.
+
+In a recent groundbreaking observation within the dense rainforests of Gunung Leuser National Park, Indonesia, a male Sumatran orangutan exhibited what appears to be a deliberate use of traditional medicine, a behavior previously undocumented in this species in such a direct manner. Named Rakus, the orangutan chose the *Fibraurea tinctoria* vine, known locally as Akar Kuning, to treat his three-day-old facial wound. This instance provides a rare insight into the self-medication behaviors of non-human primates and may shed light on the evolutionary underpinnings of medicinal knowledge.
+
+### Discovery of Orangutan Ingenuity
+
+The event was meticulously recorded by researchers from the Max Planck Institute of Animal Behavior and the Universitas Nasional Jakarta. "Rakus' choice of *Fibraurea tinctoria* is particularly fascinating because it aligns with known human uses of the plant in traditional medicine across Southeast Asia," explained Dr. Isabelle Laumer, the lead researcher. The plant is utilized by local communities to treat ailments such as dysentery, diabetes, and malaria due to its potent anti-inflammatory and antibacterial effects.
+
+### The Medicinal Method
+
+Three days post-injury, Rakus was observed tearing off leaves from the vine, chewing them, and then applying the masticated material directly onto his wound. He was later seen covering the wound entirely with the chewed leaves. "This possibly innovative behavior not only demonstrates the orangutan's ability to link plant properties to physical health needs but also highlights a complex level of problem-solving capability," noted Dr. Laumer.
+
+### Implications for Understanding Animal Self-Medication
+
+This behavior fits into a broader spectrum of known self-medication practices among non-human animals, which include the ingestion of specific plants to combat parasitic infections and the application of mud to relieve irritation. The precise and repeated application of the plant substance by Rakus suggests a deeper cognitive process at work, potentially indicative of an empirical understanding of medicinal effects.
+
+"Such actions challenge our understanding of non-human animal intelligence and emphasize the need for a greater focus on the cognitive abilities of orangutans and other primates," said Dr. Caroline Schuppli, a co-author of the study.
+
+### Broader Significance
+
+The documentation of such behavior is rare and offers significant insights into how such practices might have evolved. "The parallels between human and orangutan use of medicinal plants are striking and suggest a shared ancestral knowledge that predates our evolutionary divergence," remarked Dr. Schuppli. The study not only adds to the growing body of evidence suggesting that humans may have learned some medicinal practices by observing animals but also prompts a reevaluation of the origins of traditional medicine.
+
+### Conservation and Future Research
+
+The incident underscores the importance of conservation efforts for orangutans, who are critically endangered. Protecting their habitats ensures the preservation of their complex behaviors, which continue to provide insightful revelations into both human and animal practices.
+
+In conclusion, Rakus's behavior is a testament to the complex and nuanced interactions with the natural world that non-human animals are capable of. This discovery not only enriches our understanding of orangutan behavior but also poses intriguing questions about the capacity for cultural transmission and the development of medicinal knowledge in the animal kingdom.
+
+*Source: Laumer, I. B., Rahman, A., Rahmaeti, T., Azhari, U., Hermansyah, Schuppli, C., & Atmoko, S. S. U. (2024). Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan. Scientific Reports, 14, 8932. https://doi.org/10.1038/s41598-024-58988-7*
+
+**Meta Keywords:** Sumatran orangutan, self-medication, wound care, Fibraurea tinctoria, traditional medicine, animal intelligence, conservation, evolutionary medicine.
+
+**Article Category:**
+- Main category: Life
+  + Sub-category: Animals
+  + Sub-category: Neuroscience

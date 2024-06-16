@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(6,123)" font-size="30" style="fill:rgb(53, 94, 141)">gravitational wave</text>
+<text transform="translate(206,25)" font-size="21" style="fill:rgb(33, 145, 140)">cosmic</text>
+<text transform="translate(117,160)" font-size="21" style="fill:rgb(72, 22, 104)">NANOGrav</text>
+<text transform="translate(51,24)" font-size="20" style="fill:rgb(41, 175, 127)">sensitivity</text>
+<text transform="translate(194,46)" font-size="19" style="fill:rgb(70, 7, 90)">detection</text>
+<text transform="translate(128,61)" font-size="18" style="fill:rgb(69, 55, 129)">noise</text>
+<text transform="translate(263,177)" font-size="18" style="fill:rgb(63, 71, 136)">astronomy</text>
+<text transform="translate(126,137)" font-size="18" style="fill:rgb(34, 140, 141)">data set</text>
+<text transform="translate(212,60)" font-size="16" style="fill:rgb(72, 20, 103)">understanding</text>
+<text transform="translate(169,185)" font-size="16" style="fill:rgb(127, 211, 78)">future</text>
+<text transform="translate(63,75)" font-size="16" style="fill:rgb(46, 111, 142)">universe</text>
+<text transform="translate(345,11)" font-size="16" style="fill:rgb(65, 66, 135)">new</text>
+<text transform="translate(213,139)" font-size="16" style="fill:rgb(68, 58, 131)">NANOGrav year</text>
+<text transform="translate(98,93)" font-size="16" style="fill:rgb(72, 22, 104)">phenomenological noise</text>
+<text transform="translate(23,184)" font-size="16" style="fill:rgb(40, 124, 142)">noise model</text>
+<text transform="translate(7,56)" font-size="16" style="fill:rgb(31, 150, 139)">year data</text>
+<text transform="translate(309,93)" font-size="14" style="fill:rgb(41, 121, 142)">discovery</text>
+<text transform="translate(262,72)" font-size="14" style="fill:rgb(43, 117, 142)">pulsar</text>
+<text transform="translate(398,138) rotate(-90)" font-size="14" style="fill:rgb(61, 77, 138)">detector</text>
+<text transform="translate(245,159)" font-size="14" style="fill:rgb(50, 182, 122)">study</text>
+<text transform="translate(310,77)" font-size="14" style="fill:rgb(229, 228, 25)">precision</text>
+<text transform="translate(334,152)" font-size="14" style="fill:rgb(55, 90, 140)">signal</text>
+<text transform="translate(112,195)" font-size="14" style="fill:rgb(117, 208, 84)">Beyond</text>
+<text transform="translate(304,45)" font-size="14" style="fill:rgb(52, 182, 121)">scientific</text>
+<text transform="translate(287,16)" font-size="14" style="fill:rgb(176, 221, 47)">detect</text>
+<text transform="translate(328,193)" font-size="14" style="fill:rgb(48, 106, 142)">project</text>
+<text transform="translate(38,35)" font-size="14" style="fill:rgb(57, 86, 140)">pulsar timing</text>
+<text transform="translate(176,195)" font-size="13" style="fill:rgb(105, 205, 91)">millisecond pulsars</text>
+<text transform="translate(7,160)" font-size="12" style="fill:rgb(39, 127, 142)">timing array</text>
+<text transform="translate(199,71)" font-size="10" style="fill:rgb(34, 139, 141)">marks</text>
+<text transform="translate(52,138)" font-size="10" style="fill:rgb(71, 16, 99)">advancement</text>
+<text transform="translate(352,115)" font-size="10" style="fill:rgb(176, 221, 47)">GW</text>
+<text transform="translate(3,12)" font-size="10" style="fill:rgb(37, 172, 130)">analysis</text>
+<text transform="translate(219,8)" font-size="10" style="fill:rgb(162, 218, 55)">novel</text>
+<text transform="translate(12,97)" font-size="10" style="fill:rgb(41, 122, 142)">global</text>
+<text transform="translate(52,149)" font-size="10" style="fill:rgb(53, 94, 141)">rich</text>
+<text transform="translate(316,162)" font-size="10" style="fill:rgb(31, 161, 135)">exploration</text>
+<text transform="translate(330,123)" font-size="10" style="fill:rgb(157, 217, 59)">quest</text>
+<text transform="translate(192,76) rotate(-90)" font-size="10" style="fill:rgb(72, 193, 110)">space</text>
+<text transform="translate(295,186)" font-size="10" style="fill:rgb(61, 77, 138)">time</text>
+<text transform="translate(38,149) rotate(-90)" font-size="10" style="fill:rgb(184, 222, 41)">Agazie</text>
+<text transform="translate(320,101)" font-size="10" style="fill:rgb(33, 142, 141)">team</text>
+<text transform="translate(312,26)" font-size="10" style="fill:rgb(168, 219, 52)">collaborative</text>
+<text transform="translate(67,94)" font-size="10" style="fill:rgb(70, 51, 127)">array</text>
+<text transform="translate(18,39)" font-size="10" style="fill:rgb(39, 128, 142)">PTA</text>
+<text transform="translate(1,197)" font-size="10" style="fill:rgb(84, 197, 104)">Characterization</text>
+<text transform="translate(195,77)" font-size="10" style="fill:rgb(115, 208, 86)">cosmos</text>
+<text transform="translate(7,87)" font-size="10" style="fill:rgb(72, 24, 106)">testament</text>
+<text transform="translate(344,18)" font-size="10" style="fill:rgb(51, 99, 141)">one</text>
+<text transform="translate(208,172)" font-size="10" style="fill:rgb(72, 31, 112)">approach</text>
+<text transform="translate(4,74)" font-size="10" style="fill:rgb(101, 203, 94)">community</text>
+<text transform="translate(109,45)" font-size="10" style="fill:rgb(37, 172, 130)">us</text>
+<text transform="translate(122,167)" font-size="10" style="fill:rgb(62, 73, 137)">astrophysical</text>
+<text transform="translate(181,146)" font-size="9" style="fill:rgb(72, 33, 115)">interstellar medium</text>
+<text transform="translate(236,103)" font-size="8" style="fill:rgb(149, 216, 64)">Gabriella Agazie</text>
+<text transform="translate(338,56)" font-size="8" style="fill:rgb(41, 123, 142)">Sub category</text>
+<text transform="translate(154,37)" font-size="7" style="fill:rgb(63, 188, 115)">Unveiling</text>
+<text transform="translate(74,171)" font-size="7" style="fill:rgb(70, 10, 93)">Odyssey</text>
+<text transform="translate(291,149)" font-size="7" style="fill:rgb(86, 198, 103)">using</text>
+<text transform="translate(384,10)" font-size="7" style="fill:rgb(66, 63, 133)">low</text>
+<text transform="translate(145,78)" font-size="7" style="fill:rgb(76, 194, 108)">frequency</text>
+<text transform="translate(2,167)" font-size="7" style="fill:rgb(33, 144, 141)">achieved</text>
+<text transform="translate(272,31)" font-size="7" style="fill:rgb(62, 74, 137)">minimum</text>
+<text transform="translate(13,63)" font-size="7" style="fill:rgb(30, 156, 137)">characteristic</text>
+<text transform="translate(371,130) rotate(-90)" font-size="7" style="fill:rgb(37, 131, 142)">strain</text>
+<text transform="translate(51,94)" font-size="7" style="fill:rgb(68, 2, 86)">nHz</text>
+<text transform="translate(166,103)" font-size="7" style="fill:rgb(80, 196, 106)">breakthrough</text>
+<text transform="translate(59,8)" font-size="7" style="fill:rgb(54, 93, 141)">immediate</text>
+<text transform="translate(166,9)" font-size="7" style="fill:rgb(38, 130, 142)">implications</text>
+<text transform="translate(393,192) rotate(-90)" font-size="7" style="fill:rgb(34, 141, 141)">profound</text>
+<text transform="translate(12,22)" font-size="7" style="fill:rgb(55, 184, 120)">insights</text>
+<text transform="translate(106,99)" font-size="7" style="fill:rgb(31, 150, 139)">grand</text>
+<text transform="translate(125,177)" font-size="7" style="fill:rgb(241, 229, 29)">decipher</text>
+<text transform="translate(336,138)" font-size="7" style="fill:rgb(112, 207, 87)">secrets</text>
+<text transform="translate(63,81)" font-size="7" style="fill:rgb(31, 152, 139)">Nanohertz</text>
+<text transform="translate(18,103)" font-size="7" style="fill:rgb(168, 219, 52)">Observatory</text>
+<text transform="translate(232,69)" font-size="7" style="fill:rgb(132, 212, 75)">beacon</text>
+<text transform="translate(157,70)" font-size="7" style="fill:rgb(144, 215, 67)">closer</text>
+<text transform="translate(1,138)" font-size="7" style="fill:rgb(71, 19, 101)">Lead</text>
+<text transform="translate(78,147)" font-size="7" style="fill:rgb(52, 96, 141)">dedicated</text>
+<text transform="translate(65,129)" font-size="6" style="fill:rgb(142, 214, 69)">demonstrating</text>
+<text transform="translate(180,23)" font-size="6" style="fill:rgb(42, 176, 127)">power</text>
+<text transform="translate(378,137) rotate(-90)" font-size="6" style="fill:rgb(41, 175, 127)">mysteries</text>
+<text transform="translate(369,63)" font-size="6" style="fill:rgb(72, 37, 118)">neutron</text>
+<text transform="translate(10,146)" font-size="6" style="fill:rgb(56, 89, 140)">stars</text>
+<text transform="translate(361,101)" font-size="6" style="fill:rgb(132, 212, 75)">pulses</text>
+<text transform="translate(94,152)" font-size="6" style="fill:rgb(41, 175, 127)">across</text>
+<text transform="translate(92,62)" font-size="6" style="fill:rgb(200, 224, 32)">galaxy</text>
+<text transform="translate(229,181)" font-size="6" style="fill:rgb(66, 190, 113)">challenge</text>
+<text transform="translate(49,40)" font-size="6" style="fill:rgb(59, 82, 139)">endeavor</text>
+<text transform="translate(155,43)" font-size="6" style="fill:rgb(58, 186, 118)">whispers</text>
+<text transform="translate(94,53)" font-size="6" style="fill:rgb(92, 200, 99)">cacophony</text>
+<text transform="translate(396,48) rotate(-90)" font-size="6" style="fill:rgb(137, 213, 72)">represents</text>
+<text transform="translate(7,41) rotate(-90)" font-size="6" style="fill:rgb(42, 118, 142)">offering</text>
+<text transform="translate(259,6)" font-size="6" style="fill:rgb(52, 97, 141)">refine</text>
+<text transform="translate(314,146)" font-size="6" style="fill:rgb(32, 146, 140)">even</text>
+<text transform="translate(80,42)" font-size="6" style="fill:rgb(155, 217, 60)">within</text>
+<text transform="translate(217,163)" font-size="6" style="fill:rgb(66, 65, 134)">author</text>
+<text transform="translate(234,30)" font-size="6" style="fill:rgb(31, 149, 139)">article</text>
+<text transform="translate(139,97)" font-size="6" style="fill:rgb(248, 230, 33)">success</text>
+<text transform="translate(266,181)" font-size="6" style="fill:rgb(45, 113, 142)">opens</text>
+<text transform="translate(14,43)" font-size="5" style="fill:rgb(66, 65, 134)">significant</text>
+<text transform="translate(132,142)" font-size="5" style="fill:rgb(200, 224, 32)">introduction</text>
+<text transform="translate(337,63)" font-size="5" style="fill:rgb(101, 203, 94)">innovative</text>
+<text transform="translate(315,152)" font-size="5" style="fill:rgb(53, 94, 141)">merely</text>
+<text transform="translate(5,117) rotate(-90)" font-size="5" style="fill:rgb(55, 184, 120)">achievement</text>
+<text transform="translate(86,188)" font-size="5" style="fill:rgb(70, 51, 127)">symphony</text>
+<text transform="translate(128,43)" font-size="5" style="fill:rgb(205, 225, 29)">spirit</text>
+<text transform="translate(333,30)" font-size="5" style="fill:rgb(45, 178, 125)">collective</text>
+<text transform="translate(99,5)" font-size="5" style="fill:rgb(70, 7, 90)">phenomena</text>
+<text transform="translate(292,156)" font-size="5" style="fill:rgb(31, 150, 139)">victory</text>
+<text transform="translate(47,167)" font-size="5" style="fill:rgb(248, 230, 33)">serves</text>
+<text transform="translate(39,128)" font-size="5" style="fill:rgb(90, 200, 100)">stand</text>
+<text transform="translate(99,160)" font-size="5" style="fill:rgb(35, 169, 131)">will</text>
+<text transform="translate(362,197)" font-size="5" style="fill:rgb(32, 146, 140)">horizon</text>
+<text transform="translate(217,155)" font-size="5" style="fill:rgb(144, 215, 67)">toward</text>
+<text transform="translate(233,76)" font-size="5" style="fill:rgb(44, 114, 142)">category</text>
+<text transform="translate(141,115)" font-size="4" style="fill:rgb(72, 22, 104)">Dance</text>
+<text transform="translate(296,22)" font-size="4" style="fill:rgb(124, 210, 80)">TL</text>
+<text transform="translate(239,120)" font-size="4" style="fill:rgb(53, 95, 141)">DR</text>
+<text transform="translate(262,127)" font-size="4" style="fill:rgb(56, 88, 140)">monumental</text>
+<text transform="translate(307,127)" font-size="4" style="fill:rgb(53, 183, 121)">dataset</text>
+<text transform="translate(277,76)" font-size="4" style="fill:rgb(60, 79, 138)">pivotal</text>
+<text transform="translate(12,172)" font-size="4" style="fill:rgb(94, 201, 98)">sophisticated</text>
+<text transform="translate(1,185)" font-size="4" style="fill:rgb(72, 31, 112)">method</text>
+<text transform="translate(384,139) rotate(-90)" font-size="4" style="fill:rgb(70, 7, 90)">Groundbreaking</text>
+<text transform="translate(222,81)" font-size="4" style="fill:rgb(59, 81, 139)">making</text>
+<text transform="translate(327,105)" font-size="4" style="fill:rgb(127, 211, 78)">increasingly</text>
+<text transform="translate(305,31)" font-size="4" style="fill:rgb(231, 228, 25)">feasible</text>
+<text transform="translate(111,79)" font-size="4" style="fill:rgb(216, 226, 25)">introduces</text>
+<text transform="translate(334,81)" font-size="4" style="fill:rgb(251, 231, 35)">significantly</text>
+<text transform="translate(364,170)" font-size="4" style="fill:rgb(56, 185, 119)">boosting</text>
+<text transform="translate(69,86)" font-size="4" style="fill:rgb(31, 150, 139)">reliability</text>
+<text transform="translate(338,130)" font-size="4" style="fill:rgb(54, 93, 141)">enhancement</text>
+<text transform="translate(10,28)" font-size="4" style="fill:rgb(42, 176, 127)">leading</text>
+<text transform="translate(136,184)" font-size="4" style="fill:rgb(37, 171, 130)">field</text>
+<text transform="translate(366,177)" font-size="4" style="fill:rgb(48, 105, 142)">offers</text>
+<text transform="translate(233,112)" font-size="4" style="fill:rgb(68, 58, 131)">promising</text>
+<text transform="translate(218,30)" font-size="4" style="fill:rgb(50, 182, 122)">North</text>
+<text transform="translate(330,113)" font-size="4" style="fill:rgb(108, 205, 90)">American</text>
+<text transform="translate(138,5)" font-size="4" style="fill:rgb(34, 141, 141)">emerged</text>
+<text transform="translate(28,79)" font-size="4" style="fill:rgb(66, 64, 134)">release</text>
+<text transform="translate(386,145)" font-size="4" style="fill:rgb(54, 92, 141)">edges</text>
+<text transform="translate(321,182)" font-size="4" style="fill:rgb(99, 203, 95)">capturing</text>
+<text transform="translate(66,100)" font-size="4" style="fill:rgb(68, 59, 132)">elusive</text>
+<text transform="translate(368,31)" font-size="4" style="fill:rgb(49, 102, 142)">ripples</text>
+<text transform="translate(269,81)" font-size="4" style="fill:rgb(110, 206, 88)">known</text>
+<text transform="translate(317,48)" font-size="4" style="fill:rgb(32, 146, 140)">paves</text>
+<text transform="translate(164,196)" font-size="4" style="fill:rgb(139, 214, 70)">way</text>
+</svg>

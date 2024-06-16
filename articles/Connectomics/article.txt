@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    blockquote {
+        padding: 20px;
+        margin: 20px 0;
+        border-left: 5px solid #2196F3; /* Blue color */
+        background-color: #f9f9f9;
+        font-style: italic;
+        font-size: 1.2em;
+    }
+</style>
+</head>
+<body>
+<h2>TL;DR:</h2>
+<ul>
+<li>Google Research and Harvard University release the most detailed 3D map of the human brain to date, capturing unprecedented synaptic details in a small tissue sample.</li>
+<li>This connectome maps 57,000 cells, 150 million synapses, and spans 1.4 petabytes of data&mdash;about the size of half a grain of rice.</li>
+<li>Novel discoveries include rare, powerful synaptic connections and mysterious <a href="https://en.wikipedia.org/wiki/Axon" target="_blank">axon</a> formations, potentially linked to <a href="https://en.wikipedia.org/wiki/Epilepsy" target="_blank">epilepsy</a>.</li>
+<li>The project leverages advanced AI algorithms for 3D reconstruction, highlighting a decade of innovations in brain mapping.</li>
+<li>Open-source tools accompanying the publication invite global researchers to explore and expand upon these findings.</li>
+</ul>
+<h2>Unveiling the Complexity of the Human Brain</h2>
+<p>For over a decade, a collaborative effort between Google Research and Harvard University has been pushing the boundaries of <a href="https://en.wikipedia.org/wiki/Neuroscience" target="_blank">neuroscience</a>, culminating in a groundbreaking 3D reconstruction of human brain tissue. This monumental project, detailed in&nbsp;<em><strong><a href="https://doi.org/10.1126/science.adk4858" target="_blank">Science</a></strong></em>, utilizes advanced AI and <a href="https://en.wikipedia.org/wiki/Electron_microscope" target="_blank">electron microscopy</a> to map the intricate neural connections within a cubic millimeter of the brain. The findings not only reveal previously unseen structures but also pave the way for future research into brain function and <a href="https://en.wikipedia.org/wiki/Neurological_disorder" target="_blank">neurological disorders</a>.</p>
+<h2>Revolutionizing Brain Mapping with AI</h2>
+<p>The project, led by Harvard's Professor Jeff Lichtman, utilized advanced <a href="https://en.wikipedia.org/wiki/Electron_microscope" target="_blank">electron microscopy</a> and AI algorithms developed by Google to&nbsp;reconstructed a detailed 3D map of the brain tissue. This tiny fragment of the <a href="https://en.wikipedia.org/wiki/Temporal_lobe" target="_blank">temporal cortex</a>, about the size of half a grain of rice, contains 57,000 cells, 230 millimeters of blood vessels, and 150 million synapses, amounting to a staggering 1.4 petabytes of data.</p>
+<p><img src="https://scientificradar.com/uploads/Connectomics2024-1-ExcitatoryNeurons.original-i6644c2f60ec09.png" alt="Connectomics2024-1-ExcitatoryNeurons.original-i6644c2f60ec09.png" /></p>
+<p><em>Scientists created a 3D visualization of almost every <a href="https://en.wikipedia.org/wiki/Neuron" target="_blank">neuron</a> and their connections in a small fragment of human brain tissue. The first image (above)&nbsp;displays excitatory neurons, while the below image (below) shows inhibitory neurons. These images are color-coded based on the size of the neurons' cell bodies, which range from 15 to 30 micrometers. The sample measures about 3 mm in width. Credit: Google Research &amp; Lichtman Lab (Harvard University). Renderings by D. Berger (Harvard University).</em></p>
+<hr />
+<p>&nbsp;</p>
+<p><img src="https://scientificradar.com/uploads/Connectomics2024-2-InhibitoryNeurons.original-i6644c2f7f07f7.png" alt="Connectomics2024-2-InhibitoryNeurons.original-i6644c2f7f07f7.png" /></p>
+<p><em>Scientists created a 3D visualization of almost every <a href="https://en.wikipedia.org/wiki/Neuron" target="_blank">neuron</a> and their connections in a small fragment of human brain tissue. The first&nbsp;image (above)&nbsp;displays excitatory neurons, while the below image (above) shows inhibitory neurons. These images are color-coded based on the size of the neurons' cell bodies, which range from 15 to 30 micrometers. The sample measures about 3 mm in width. Credit: Google Research &amp; Lichtman Lab (Harvard University). Renderings by D. Berger (Harvard University).</em></p>
+<hr />
+<p>&nbsp;</p>
+<p>The project, funded by the <a href="https://en.wikipedia.org/wiki/BRAIN_Initiative" target="_blank">National Institutes of Health BRAIN Initiative</a>, aims to create a detailed high-resolution map of the mouse brain's <a href="https://en.wikipedia.org/wiki/Neural_pathway" target="_blank">neural pathways</a>, which would involve collecting data that is approximately 1,000 times greater than what was used for the 1-cubic-millimeter sample of human brain tissue.</p>
+<blockquote>
+<p>"The word 'fragment' is ironic. A terabyte is, for most people, gigantic, yet a fragment of a human brain&mdash;just a minuscule, teeny-weeny little bit of human brain&mdash;is still thousands of terabytes."</p>
+<p>Jeff Lichtman, the Jeremy R. Knowles Professor and Dean, Department of Molecular and Cellular Biology, Harvard University</p>
+</blockquote>
+<p>The research team included former Harvard postdoc Alexander Shapson-Coe, Michał Januszewski of Google Research, and Harvard postdoc Daniel Berger as co-first authors. Their collaboration has resulted in the most comprehensive synaptic-resolution map of human brain tissue to date.</p>
+<h2>Key Findings and Technological Innovations</h2>
+<p>The study uncovered several previously unknown structures within the brain. One notable discovery was a class of rare but extremely powerful synaptic connections, where a pair of neurons may be connected by more than 50 individual synapses. While most <a href="https://en.wikipedia.org/wiki/Axon" target="_blank">axon</a>-target cell contacts have just one synapse, these strong connections suggest a purposeful design, potentially crucial for fast neural responses or important memory encoding.</p>
+<blockquote>
+<p>"We found a class of rare but powerful synaptic connections that challenge our understanding of neural connectivity. These connections may play a significant role in the brain's ability to process information efficiently."</p>
+<p>Alexander Shapson-Coe, Harvard University</p>
+</blockquote>
+<p>Another intriguing finding was the presence of "<a href="https://en.wikipedia.org/wiki/Axon" target="_blank">axon</a> whorls," where axons form intricate knots, and clusters of triangular neurons in the deepest cortical layer displaying mirror symmetry. These unique structures raise new questions about their functional roles in the brain.</p>
+<p><img src="https://scientificradar.com/uploads/Connectomics2024-6-AxonWhorls-i6644c2fc80590.jpg" alt="Connectomics2024-6-AxonWhorls-i6644c2fc80590.jpg" /></p>
+<p><em>Axons (blue) are the filamentous parts of nerve cells that transmit signals away from the cell body. In the sample, researchers discovered previously unseen "<a href="https://en.wikipedia.org/wiki/Axon" target="_blank">axon</a> whorls," occasionally found on the surface of another nerve cell (yellow). Credit: Google Research &amp; Lichtman Lab (Harvard University). Renderings by D. Berger (Harvard University).</em></p>
+<hr />
+<p>&nbsp;</p>
+<h2>Broader Implications for <a href="https://en.wikipedia.org/wiki/Neuroscience" target="_blank">neuroscience</a></h2>
+<p>This groundbreaking research not only enhances our understanding of human brain architecture but also provides invaluable tools for the scientific community. The dataset and interactive tools, including the Neuroglancer and CAVE platforms, are available for researchers to explore and refine, fostering further discoveries.</p>
+<blockquote>
+<p>"Given the enormous investment put into this project, it was important to present the results in a way that anybody else can now go and benefit from them. We hope this will accelerate new findings in <a href="https://en.wikipedia.org/wiki/Neuroscience" target="_blank">neuroscience</a>."</p>
+<p>Viren Jain, Collaborator, Google</p>
+</blockquote>
+<p>The implications of this work extend to understanding neurological diseases. The brain tissue sample came from an <a href="https://en.wikipedia.org/wiki/Epilepsy" target="_blank">epilepsy</a> patient, raising questions about the connection between observed anomalies and the condition. Future studies on different tissue samples could provide deeper insights into various brain disorders.</p>
+<p><img src="https://scientificradar.com/uploads/Harvard-<a href="https://en.wikipedia.org/wiki/Neuron" target="_blank">neuron</a>-Image-Map-i6644c2fda9029.png" alt="Harvard-<a href="https://en.wikipedia.org/wiki/Neuron" target="_blank">neuron</a>-Image-Map-i6644c2fda9029.png" /></p>
+<p><em>A single <a href="https://en.wikipedia.org/wiki/Neuron" target="_blank">neuron</a> (white) is shown alongside 5,600 connecting axons (blue). The synapses making these connections are highlighted in green. Credit: Google Research &amp; Lichtman Lab (Harvard University). Renderings by D. Berger (Harvard University).</em></p>
+<hr />
+<p>&nbsp;</p>
+<p>Looking ahead, the team plans to scale their <a href="https://en.wikipedia.org/wiki/Connectomics" target="_blank">connectomics</a> efforts to the mouse <a href="https://en.wikipedia.org/wiki/Hippocampus" target="_blank">hippocampus</a>, a region critical for memory and neurological disease research. They are also exploring new methods for connectomic mapping using light microscopes, which could simplify image collection for connectomic analysis.</p>
+<blockquote>
+<p>"Our ultimate goal is to create a comprehensive, high-resolution map of the brain's neural wiring. This would be a significant leap forward in our understanding of brain function and its disorders."</p>
+<p>Daniel Berger, Harvard University</p>
+</blockquote>
+<hr />
+<p>&nbsp;<strong>Source:&nbsp;</strong>Alexander Shapson-Coe,&nbsp;<em>et al</em>. (2024). <strong>A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution.</strong> <em>Science</em>, 384(6696): eadk4858</p>
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1126/science.adk4858" target="_blank">10.1126/science.adk4858</a></p>
+</body>
+</html>
